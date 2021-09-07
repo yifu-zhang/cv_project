@@ -11,4 +11,6 @@ research:
 Deep Learning. Ian Goodfellow --- foundamental mathematical theory.
 Principles Of Artificial Neural Networks: basic designs to deep learning. Graupe Daniel, Graupe
 
+repo crash: Sep 6, 2021
+
 
